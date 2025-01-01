@@ -8,7 +8,7 @@ class Arith//class
     {
         cout<<"\n a + b :"<< a+b;
     }
-};
+};                      
 int main()
 {
     Arith prob1;//class object
